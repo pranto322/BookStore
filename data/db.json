@@ -1,0 +1,291 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "SHERLOCK HOLMES,The Hound of the Baskervilles",
+      "overview": "In 'The Hound of the Baskervilles', Sherlock Holmes investigates a legendary curse and a supernatural hound haunting a family in the English countryside.",
+      "long_description": "In 'The Hound of the Baskervilles', readers follow Sherlock Holmes and his trusty companion Dr. Watson as they try to unravel the mystery surrounding the curse that seems to be targeting the Baskerville family. Set in the desolate and atmospheric moors of Dartmoor, the novel is full of twists and turns, as Holmes pieces together the clues to solve the case. With its masterful storytelling, memorable characters, and Gothic atmosphere, 'The Hound of the Baskervilles' is a classic mystery that has captured the imaginations of readers for over a century.",
+      "price": 29,
+      "image_local": "/assets/images/1001.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 1003,
+      "name": "Harry Potter and the Philosopher's Stone",
+      "overview": "'Harry Potter and the Philosopher's Stone' is a novel by J.K. Rowling where an orphaned boy discovers he's a wizard, attends Hogwarts School, and battles the dark Lord Voldemort to save the wizarding world.",
+      "long_description": "In 'Harry Potter and the Philosopher's Stone',readers are introduced to a world of magic, spells, and adventure, following the story of a young orphan boy named Harry Potter as he discovers his true identity as a wizard and begins his education at Hogwarts School of Witchcraft and Wizardry. Alongside his friends Ron Weasley and Hermione Granger, Harry sets out to uncover the truth about the mysterious Philosopher's Stone and defeat the evil forces that threaten the wizarding world. With its captivating characters, imaginative world-building, and themes of friendship, bravery, and sacrifice, 'Harry Potter and the Philosopher's Stone' is a beloved classic of modern literature.",
+      "price": 19,
+      "image_local": "/assets/images/1003.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 1004,
+      "name": "My Absolute Heart",
+      "overview": "Walking down a dirt path at sunset, the rustling of leaves and sound of a babbling brook brought a sense of peace and gratitude after a long week of work and stress.",
+      "long_description": "In My Absolute Heart, readers follow Mia as she grapples with a painful past and seeks to find meaning and purpose in her life. Along the way, she encounters a cast of memorable characters, each of whom helps her to grow and learn important lessons about herself and the world around her. Through its powerful storytelling and vivid characters, .My Absolute Heart' is a moving and thought-provoking read that will stay with readers long after they finish the book.",
+      "price": 29,
+      "image_local": "/assets/images/1004.jpg",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 1005,
+      "name": "The Adventures of Feluda",
+      "overview": "'The Adventures of Feluda' is a series of detective novels written by Indian author Satyajit Ray, featuring the adventures of private investigator Pradosh C. Mitter, also known as Feluda.",
+      "long_description": "'The Adventures of Feluda' is a series of detective stories set in Kolkata, India, following the investigations of private investigator Pradosh C. Mitter, or Feluda, and his companions Topshe and Jatayu. With its well-crafted mysteries, vivid descriptions of Indian culture, and memorable characters, the series has become a classic of Indian literature and a favorite among fans of the detective genre. Satyajit Ray's writing style is known for its wit and humor, making the adventures of Feluda both exciting and entertaining.",
+      "price": 99,
+      "image_local": "/assets/images/1005.jpg",
+      "rating": 5,
+      "in_stock": false,
+      "size": 0,
+      "best_seller": false
+    },
+    {
+      "id": 1006,
+      "name": "The Adventures of Feluda",
+      "overview": "'The Adventures of Feluda' is a series of detective novels written by Indian author Satyajit Ray, featuring the adventures of private investigator Pradosh C. Mitter, also known as Feluda.",
+      "long_description": "'The Adventures of Feluda' is a series of detective stories set in Kolkata, India, following the investigations of private investigator Pradosh C. Mitter, or Feluda, and his companions Topshe and Jatayu. With its well-crafted mysteries, vivid descriptions of Indian culture, and memorable characters, the series has become a classic of Indian literature and a favorite among fans of the detective genre. Satyajit Ray's writing style is known for its wit and humor, making the adventures of Feluda both exciting and entertaining.",
+      "price": 90,
+      "image_local": "/assets/images/1006.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 1007,
+      "name": "The Selected Adventures and Memoirs of Sherlock Holmes",
+      "overview": "'The Selected Adventures and Memoirs of Sherlock Holmes' is a collection of short stories featuring the detective Sherlock Holmes and his companion Dr. Watson, as they solve mysteries in Victorian England.",
+      "long_description": "The Sherlock Holmes stories, written by Sir Arthur Conan Doyle, follow the adventures of the legendary detective Sherlock Holmes and his companion Dr. Watson as they solve complex cases and face off against some of literature's most infamous criminals. From A Scandal in Bohemia to The Final Problem, these stories have become iconic examples of the mystery and detective fiction genres. They feature Holmes' unparalleled powers of deduction, his sometimes difficult personality, and his deep sense of justice. Doyle's vivid writing style and engaging characters have ensured the enduring popularity of these tales for over a century.",
+      "price": 85,
+      "image_local": "/assets/images/1007.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": true
+    },
+    {
+      "id": 1008,
+      "name": "Five Feet Apart",
+      "overview": "'Five Feet Apart' is a book and movie about two teens with cystic fibrosis who fall in love but must maintain a distance of six feet to avoid cross-infection.",
+      "long_description": "Stella and Will, the two main characters, must maintain a distance of at least six feet to avoid cross-infection, but they decide to take a risk and move a foot closer to each other, which becomes a symbol of their love. The novel explores their journey as they navigate their complicated health issues and their growing feelings for each other. It is a touching and heartwarming story that captures the realities of living with chronic illness while also celebrating the power of human connection and resilience.",
+      "price": 19,
+      "image_local": "/assets/images/1008.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    },
+    {
+      "id": 1009,
+      "name": "Anne Frank's diary",
+      "overview": "'Anne Frank's Diary' is a book based on the real-life diary of a young Jewish girl who documented her experiences hiding from the Nazis during World War II.",
+      "long_description": "The diary, written between 1942 and 1944, offers a unique perspective on the Holocaust, capturing both the mundane details of daily life in hiding and the emotional struggles of a teenager living under extraordinary circumstances. Anne's writing style is intimate and honest, and her observations on human nature, society, and politics remain relevant today. The diary has become a symbol of hope, resilience, and the enduring human spirit, inspiring generations of readers around the world.",
+      "price": 49,
+      "image_local": "/assets/images/1009.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 1010,
+      "name": "Fox in Socks",
+      "overview": "'Fox in Socks' is a children's book by Dr. Seuss that features a mischievous fox who challenges the reader to recite tongue-twisters with increasing complexity.",
+      "long_description": "The book follows a mischievous fox who engages in a game of tongue-twisters with his friend, Mr. Knox. Through their witty banter and clever wordplay, the book teaches children about phonics, vocabulary, and sentence structure in a fun and engaging way. 'Fox in Socks' has become a classic in children's literature, beloved by generations for its playful language and colorful illustrations.",
+      "price": 29,
+      "image_local": "/assets/images/1010.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 1011,
+      "name": "Black Girl, Call Home",
+      "overview": "'Black Girl, Call Home' is a novel-in-verse by Jasmine Mans that explores the experiences of young black girls as they navigate love, identity, and social expectations.",
+      "long_description": "Told through a series of powerful poems, 'Black Girl, Call Home' is a moving and lyrical exploration of the complexities of growing up as a young black girl in America. The book delves into themes such as race, gender, sexuality, and family, with a focus on the joys and challenges of finding one's own voice and sense of belonging. With its raw and honest portrayal of black girlhood, 'Black Girl, Call Home' is a must-read for anyone seeking to understand the rich and diverse experiences of black women in America.",
+      "price": 39,
+      "image_local": "/assets/images/1011.jpg",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 1012,
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "overview": "'Harry Potter and the Philosopher's Stone' is a novel by J.K. Rowling where an orphaned boy discovers he's a wizard, attends Hogwarts School, and battles the dark Lord Voldemort to save the wizarding world.",
+      "long_description": "In the third book of J.K. Rowling's series, Harry returns to Hogwarts School of Witchcraft and Wizardry for his third year. He must rely on his friends Ron and Hermione to stay safe as a dangerous prisoner, Sirius Black, escapes from Azkaban. Along the way, Harry uncovers the truth about his own family history and faces challenges such as Dementors and a mysterious black dog.",
+      "price": 79,
+      "image_local": "/assets/images/1012.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 1013,
+      "name": "Sculpture Art",
+      "overview": "Sculpture art involves the creation of three-dimensional forms using various materials such as stone, metal, wood, and clay.",
+      "long_description": "The art of sculpture has been an integral part of human civilization for centuries, and it continues to inspire artists and audiences alike. Sculptures can range in size from tiny figurines to massive public monuments, and they can be representational, abstract, or a combination of both. Sculptors use a variety of techniques to manipulate their chosen materials, such as carving, casting, welding, and modeling. Through sculpture, artists have explored themes of religion, politics, mythology, and the human form, leaving a rich legacy of creativity and innovation for future generations to appreciate.",
+      "price": 9,
+      "image_local": "/assets/images/1013.jpg",
+      "rating": 2,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 1014,
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "overview": "'Harry Potter and the Prisoner of Azkaban' is the third book in J.K. Rowling's bestselling series about the boy wizard. In this book, Harry faces new challenges and dangers.",
+      "long_description": "As Harry starts his third year at Hogwarts, he learns that a notorious prisoner, Sirius Black, has escaped from the wizarding prison of Azkaban and is believed to be coming after him. Along with the threat of Black, Harry and his friends must also contend with the soul-sucking Dementors guarding the school. With time travel, magical creatures, and new secrets revealed, this book continues the thrilling adventures of Harry and his friends.",
+      "price": 19,
+      "image_local": "/assets/images/1014.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 1015,
+      "name": "Earthly Bodies",
+      "overview": "'Earthly Bodies' explores the history of anatomy and dissection, highlighting the often-morbid human fascination with the inner workings of the body.",
+      "long_description": "Through engaging storytelling, Susan Earlam provides readers with an intriguing and thought-provoking look at the complex history of anatomical science. She examines how early anatomists used human cadavers to advance medical knowledge, as well as the ethical debates and controversies surrounding this practice. Earlam also delves into how anatomical science has influenced art and popular culture over the centuries, making 'Earthly Bodies' a fascinating read for anyone interested in the intersection of science and society.",
+      "price": 19,
+      "image_local": "/assets/images/1015.jpg",
+      "rating": 3,
+      "in_stock": false,
+      "size": 0,
+      "best_seller": false
+    },
+    {
+      "id": 1016,
+      "name": "When Blood Meets Earth",
+      "overview": "'When Blood Meets Earth' is a gripping thriller that explores the dark secrets of a small, isolated town.",
+      "long_description": "'When Blood Meets Earth' is a thrilling mystery novel by an up-and-coming author. Set in a small town, the story follows a detective as she investigates a string of murders that seem to be connected to the town's dark past. With its gripping plot and complex characters, this book is a must-read for fans of the mystery genre.",
+      "price": 9,
+      "image_local": "/assets/images/1016.jpg",
+      "rating": 2,
+      "in_stock": false,
+      "size": 0,
+      "best_seller": false
+    },
+    {
+      "id": 1017,
+      "name": "A Mind of a Leader",
+      "overview": "'A Mind of a Leader' is a book that provides insights into the psychology of leadership and the traits of successful leaders.",
+      "long_description": "The book explores the mindset and qualities that distinguish leaders from followers, and offers practical advice on how to develop leadership skills. It draws on research from psychology, neuroscience, and business to provide a comprehensive understanding of what makes a great leader. Whether you're a seasoned executive or an aspiring leader, 'A Mind of a Leader' offers valuable insights and strategies for achieving success in your field.",
+      "price": 79,
+      "image_local": "/assets/images/1017.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 1018,
+      "name": "The Light Beyond the Garden Wall",
+      "overview": "'The Light Beyond the Garden Wall' is a captivating novel that explores the themes of love, loss, and the power of nature.",
+      "long_description": "Follow the journey of a young woman as she discovers a hidden garden and the magic that lies within it. As she tends to the plants and flowers, she begins to heal from the pain of her past and finds hope for her future. With vivid descriptions and beautiful prose, this book is a must-read for anyone who loves nature and believes in the transformative power of the natural world.",
+      "price": 19,
+      "image_local": "/assets/images/1018.jpg",
+      "rating": 4,
+      "in_stock": false,
+      "size": 0,
+      "best_seller": true
+    },
+    {
+      "id": 1019,
+      "name": "Carrie's War",
+      "overview": "'Carrie's War' is a children's book about two siblings who are evacuated to the countryside during World War II and their experiences with their host family and the local community.",
+      "long_description": "In 'Carrie's War', readers are transported back to the tumultuous period of World War II, as they follow the story of two young siblings who are forced to leave their home and adapt to life in an unfamiliar environment. Carrie, the elder of the two, is a thoughtful and curious girl who is determined to make the most of their new surroundings, while her younger brother Nick struggles to adjust. As they begin to explore their new home in the Welsh countryside, they encounter a cast of colorful characters who will leave a lasting impression on their lives. However, the peaceful idyll is not to last, and the specter of war soon looms once more, as the children must confront difficult choices and painful truths. 'Carrie's War' is a poignant and insightful tale of growing up, learning to cope with adversity, and the enduring power of love and friendship.",
+      "price": 69,
+      "image_local": "/assets/images/1019.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 1006,
+      "name": "The Adventures of Feluda",
+      "overview": "'The Adventures of Feluda' is a series of detective novels written by Indian author Satyajit Ray, featuring the adventures of private investigator Pradosh C. Mitter.",
+      "long_description": "'The Adventures of Feluda' is a series of detective stories set in Kolkata, India, following the investigations of private investigator Pradosh C. Mitter, or Feluda, and his companions Topshe and Jatayu. With its well-crafted mysteries, vivid descriptions of Indian culture, and memorable characters, the series has become a classic of Indian literature and a favorite among fans of the detective genre. Satyajit Ray's writing style is known for its wit and humor, making the adventures of Feluda both exciting and entertaining.",
+      "price": 90,
+      "image_local": "/assets/images/1006.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 1012,
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "overview": "'Harry Potter and the Prisoner of Azkaban' is the third book in J.K. Rowling's bestselling series about the boy wizard.",
+      "long_description": "In the third book of J.K. Rowling's series, Harry returns to Hogwarts School of Witchcraft and Wizardry for his third year. He must rely on his friends Ron and Hermione to stay safe as a dangerous prisoner, Sirius Black, escapes from Azkaban. Along the way, Harry uncovers the truth about his own family history and faces challenges such as Dementors and a mysterious black dog.",
+      "price": 79,
+      "image_local": "/assets/images/1012.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 1017,
+      "name": "A Mind of a Leader",
+      "overview": "'A Mind of a Leader' is a book that provides insights into the psychology of leadership and the traits of successful leaders.A great book to read.",
+      "long_description": "The book explores the mindset and qualities that distinguish leaders from followers, and offers practical advice on how to develop leadership skills. It draws on research from psychology, neuroscience, and business to provide a comprehensive understanding of what makes a great leader. Whether you're a seasoned executive or an aspiring leader, 'A Mind of a Leader' offers valuable insights and strategies for achieving success in your field.",
+      "price": 79,
+      "image_local": "/assets/images/1017.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "users": [
+    {
+      "email": "abcd@gmail.com",
+      "password": "$2a$10$I2cl13jBwN8pykdH7M/lf.7b6AF6sM5xTPGe9IwoiDuzKImGL1/u2",
+      "name": "aaa",
+      "id": 1
+    },
+    {
+      "email": "xyz@gmail.com",
+      "password": "$2a$10$dVvG9p6cJLyynbBe9/lne.0oPgygyVH90pCFMsDgXOkvJcDx5nmmO",
+      "name": "aaa",
+      "id": 2
+    },
+    {
+      "email": "xaayz@gmail.com",
+      "password": "$2a$10$eNq1VxaiFpzT4UzumRxTD.3FpIOcmaeaMIWWP/46qFwyrphSm2WvW",
+      "name": "aaa",
+      "id": 3
+    },
+    {
+      "email": "xxz@gmail.com",
+      "password": "$2a$10$WdRKR5AUnzzIGgEfwZkpI.bKH1Vj3vQKNChKB8C1ae5aV.9waEU9O",
+      "name": "xyz",
+      "id": 4
+    },
+    {
+      "email": "rrr@gmail.com",
+      "password": "$2a$10$.3QnfHwFGxWKGYeAW77O6.7eB52kNMX4WiVtQCyzsIAhF5RKSrks.",
+      "name": "rrr",
+      "id": 5
+    }
+  ],
+  "orders": []
+}
